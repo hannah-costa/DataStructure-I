@@ -1,0 +1,4 @@
+Faça um algoritmo que recebe 4 números inteiros: n, m, p e q,
+e duas matrizes float ma(n x m) e mb(p x q), e retorna a matriz
+mc com o resultado da multiplicação mc = ma x mb se possível ou
+NULL em caso contrário.

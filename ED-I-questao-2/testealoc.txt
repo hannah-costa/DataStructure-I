@@ -1,0 +1,11 @@
+int** m = (int**)malloc(sizeof(int*)*a);
+
+
+if (m != NULL){
+  printf("isso quer dizer que a alocação deu certo.\n");
+}
+
+for (int i=0; i<a; i++){
+  m[i] = (int*)malloc(sizeof(int)*b);
+  printf("isso quer dizer que a alocação deu certo.\n");
+}
