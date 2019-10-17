@@ -11,9 +11,28 @@ int posicaoVetor (int v[], int n, int key){
   }
   return -1;
 }
+
 //teste:
 int main() {
-  int v[5] = {0, 5, 16, 43, 7};
-  printf("%d\n", posicaoVetor(v, 5, 12));
+  printf("Digite o tamanho do vetor: ");
+  int tam;
+  scanf("%d",&tam);
+
+  int v[tam];
+  printf("Preencha o vetor:");
+  for(int i=0; i<tam; i++){
+    scanf("%d",&v[i]);
+  }
+
+  printf("Digite a key: ");
+  int key;
+  scanf("%d",&key);
+
+  int pos = posicaoVetor(v, tam, key);
+  if(pos != -1){
+    printf("Esta dentro do vetor na posicao %d",pos);
+  }else{
+    printf("Nao esta dentro do vetor");
+  }
   return 0;
 }
