@@ -1,2 +1,3 @@
-# Estruturas-de-Dados-I
-Códigos feitos na cadeira de ED-I. Todos em C.
+# DataStructure-I
+
+Codes from the Data Structure II class. Professor: Anselmo Cardoso de Paiva
