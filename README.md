@@ -1,3 +1,3 @@
 # DataStructure-I
 
-Codes from the Data Structure II class. Professor: Anselmo Cardoso de Paiva
+Códigos da disciplina de Estrutura de Dados I. Professor: Anselmo Cardoso de Paiva
