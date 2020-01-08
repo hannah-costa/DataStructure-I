@@ -1,6 +1,0 @@
-Faça um algoritmo que recebe dois inteiros n, m e a matriz
-ma(n x m) e um inteiro k e:
-  a) retorna um vetor com os elementos da linha k;
-  b) retorna um vetor com os elementos da coluna k;
-  c) retorna a soma dos elementos da coluna k;
-  d) retorna a soma dos elementos da linha k.

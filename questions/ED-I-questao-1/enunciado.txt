@@ -1,4 +1,0 @@
-Faça uma função que recebe um vetor de inteiros v,
-um número n, e um valor inteiro key, e retorna -1
-se key não está no vetor ou a posição no vetor onde
-está key.
