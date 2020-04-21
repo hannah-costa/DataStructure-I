@@ -1,0 +1,16 @@
+Faça um programa que usa o TAD coleção (genérico) para armazenar
+estruturas do tipo T e que tenha as seguintes funcionalidades:
+		a)permite criar uma coleção;
+		b)permita destruir uma coleção;
+		c)permita inserir dados de uma estrutura do tipo T em uma coleção;
+		d)permita consultar uma estrutura do tipo T, identificada pelo campo F que está na coleção;
+		e)permita remover uma estrutura do tipo T, identificada pelo campo F que está na coleção;
+		f)permita listar todas as estruturas armazenadas na coleção.
+
+		Carro(T)
+		Marca: char*
+		Potência: int
+		NumPortas: int
+		Preço: float
+		Placa: long int
+		F-> placa, marca
